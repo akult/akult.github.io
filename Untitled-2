@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+    <head>
+        <title>POLA CASE VODE</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="main.js"></script>
+    </head>
+    <body>
+        <header>  
+            <h1>Pola case vode</h1>
+            <img src="img/ninalogoo.png" alt="logo">
+                <nav>
+                    <ul>
+                        <li>about</li>
+                        <li>social</li>
+                        <li>contact</li>
+                        
+                    </ul>
+                </nav>
+        </header>
+      
+    </body>
+</html>
