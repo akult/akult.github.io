@@ -93,6 +93,9 @@ header img{
      text-align: center;
      padding: 30px 0;
  }
+    header nav{
+        border-top: 1px solid #ecf0f1;
+    }
 
    
 }
