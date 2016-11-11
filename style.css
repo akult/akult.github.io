@@ -70,7 +70,7 @@ li{
 
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 525px) {
 header nav,h1,li{
     display: block;
    padding-right: 0; 
